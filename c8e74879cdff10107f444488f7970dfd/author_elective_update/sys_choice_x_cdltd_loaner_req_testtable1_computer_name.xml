@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="computer_name" table="x_cdltd_loaner_req_testtable1" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>computer_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IP_Comp1</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_testtable1</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 08:47:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>088745bdcd7350107f444488f7970d6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 08:47:11</sys_updated_on>
+            <value>IP_Comp_Test1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>computer_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IP_Comp2</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_testtable1</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 08:47:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ccb785bdcd7350107f444488f7970db6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 08:47:47</sys_updated_on>
+            <value>IP_Comp_Test2</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>computer_name</element>
+            <name>x_cdltd_loaner_req_testtable1</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 08:47:11</sys_created_on>
+            <sys_id>9d9785bdcd7350107f444488f7970d3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>computer_name</sys_name>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">c8e74879cdff10107f444488f7970dfd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">c8e74879cdff10107f444488f7970dfd</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_loaner_req_testtable1_computer_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 08:47:11</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
