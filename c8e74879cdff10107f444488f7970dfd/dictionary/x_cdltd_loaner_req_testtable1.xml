@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="TestTable1" max_length="40" name="x_cdltd_loaner_req_testtable1" type="collection">
-        <element choice="1" display="true" label="Computer Name" mandatory="true" max_length="200" name="computer_name" read_only="true" type="string">
+    <element label="TestTable1" max_length="40" name="x_cdltd_loaner_req_testtable1" sizeclass="1" type="collection">
+        <element choice="1" display="true" label="Computer Name" mandatory="true" max_length="200" name="computer_name" type="string">
             <choice>
                 <element inactive_on_update="false" label="IP_Comp1" value="IP_Comp_Test1"/>
                 <element inactive_on_update="false" label="IP_Comp2" value="IP_Comp_Test2"/>
